@@ -11,4 +11,4 @@ To enable isml snippets you just need follow the below steps,
 
 ## Editor settings
 
-![Editor setting](https://github.com//images/2_1_10/extension_path_setting.png)
+![Editor setting](https://raw.githubusercontent.com/syed-shahjahan/SFCC-vsCode-Snippets/master/images/extension_path_setting.png)
