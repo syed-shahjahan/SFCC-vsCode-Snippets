@@ -1,0 +1,10 @@
+{
+    "html": {
+        "snippets": {
+            "spref": "{\\${dw.system.Site.current.preferences.custom\\}}",
+            "gpref": "{\\${dw.system.System.getPreferences().getCustom()[]\\}}",
+            "rmsg": "{\\${Resource.msg('', '', null)\\}}",
+            "url": "{\\${URLUtils.url('Product-Show')\\}}"
+        }
+    }
+}
