@@ -2,7 +2,7 @@
     "html": {
         "snippets": {
             "spref": "{\\${dw.system.Site.current.preferences.custom\\}}",
-            "gpref": "{\\${dw.system.System.getPreferences().getCustom()[]\\}}",
+            "gpref": "{\\${dw.system.System.getPreferences().getCustom()['${0}']\\}}",
             "rmsg": "{\\${Resource.msg('${0}', '${1}', null)\\}}",
             "rmsgf": "{\\${Resource.msg('${0}', '${1}', null, ${2})\\}}",
             "prmsg": "{\\<isprint value=\"\\${Resource.msg('${0}', '${1}', null)\\}\"\/\\>}",
